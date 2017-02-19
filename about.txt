@@ -1,0 +1,30 @@
+Objectives:
+    :Use Microsoft Excel to explore data
+    :Use Transact-SQL to query a relational database
+    :Create data models and visualize data using Excel or Power BI
+    :Apply statistical methods to data
+    :Use R or Python to explore and transform data
+    :Follow a data science methodology
+    :Create and validate machine learning models with Azure Machine Learning
+    :Write R or Python code to build machine learning models
+    :Apply data science techniques to common scenarios
+    :Implement a machine learning solution for a given data problem
+
+
+Unit 1 - Fundamentals
+	- Query Relational Base
+	- Analyse and Visualize Data
+	- Understand Statistics
+
+Unit 2 - Core Data Science
+	- Explore Data With Code
+	- Core Data Science Concepts
+	- Machine Learning
+
+Unit 3 - Applied Data Science
+	- Use code to manipulate data
+	- Applied Machine Learning
+	- Spark
+
+Unit 4 - Project
+	- Final Project (Data Science Professional Project)
